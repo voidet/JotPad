@@ -61,7 +61,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#b5bd68</string>
+				<string>#3e999f</string>
 			</dict>
 		</dict>
 		<dict>
@@ -74,7 +74,7 @@
 				<key>fontStyle</key>
 				<string>bold</string>
 				<key>foreground</key>
-				<string>#d54e53</string>
+				<string>#FF3F80</string>
 			</dict>
 		</dict>
 		<dict>
