@@ -59,9 +59,9 @@
 				<key>background</key>
 				<string>#80808000</string>
 				<key>fontStyle</key>
-				<string>bold</string>
+				<string></string>
 				<key>foreground</key>
-				<string>#E6E6E6</string>
+				<string>#3e999f</string>
 			</dict>
 		</dict>
 		<dict>
@@ -167,7 +167,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#E95D32</string>
+				<string>#e78c45</string>
 			</dict>
 		</dict>
 		<dict>
